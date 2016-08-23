@@ -11,10 +11,10 @@
 ### Task D- Set up your Environment:
 
 * Did you run into any issues?
-* How do you open Atom from your Terminal?
+* How do you open Visual Studio Code from your Terminal?
 * What is the file extension for a Ruby file?
-* What is the Atom shortcut for hiding/ showing your file tree view?
-* What is the Atom shortcut for quickly finding a file (fuzzy finder)?
+* What is the Visual Studio Code shortcut for hiding/ showing your file tree view?
+* What is the Visual Studio Code shortcut for quickly finding a file (fuzzy finder)?
 
 ### Task E- The Command Line:
 * screenshots of your terminal after each exercise will be posted in comments
